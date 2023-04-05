@@ -42,7 +42,6 @@ Input: [
   ['o', 'o', 'o', 'o', 'o', 'o', 'o', 'o']
 ]
 Return [4,6] for the example above => [4, 6]
-
 */
 
 const xMarksTheSpot = (input) => {
