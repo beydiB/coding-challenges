@@ -26,3 +26,14 @@ const twoSum = function(nums, target) {
     }
   }
 };
+
+// ----------------------------------------------------
+
+var twoSum = function(nums, target) {
+  let map = {}
+  for(i=0; i < nums.length; i++) {
+    let goal = target - nums[i]
+    if(map[goal] != undefined) return [map[goal],i]
+    map[nums[i]] = i
+  }
+};
