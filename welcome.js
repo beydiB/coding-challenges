@@ -50,5 +50,5 @@ function greet(language) {
     welsh: "Croeso",
   };
 
-  return langs[language] ? langs[language] : langs["english"];
+  return langs[language] || langs["english"];
 }
