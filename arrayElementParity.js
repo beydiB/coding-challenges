@@ -10,7 +10,6 @@ Examples:
 [-3, 1, 2, 3, -1, -4, -2] => -4
 
 -4 has no matching positive appearance
-
 [1, -1, 2, -2, 3, 3] => 3
 
 (the only-positive or only-negative integer may appear more than once)
