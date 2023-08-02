@@ -1,6 +1,5 @@
 /*
 Create a function that takes an array of letters, and combines them into words in a sentence.
-
 The array will be formatted as so:
 
 [
