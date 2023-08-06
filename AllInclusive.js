@@ -1,6 +1,5 @@
 /*
 Input:
-
     a string strng
     an array of strings arr
 
