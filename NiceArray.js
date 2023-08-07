@@ -11,7 +11,6 @@ examples:
  9 = 10 - 1
 
 [4, 2, 3] is a nice array because
-
 4 = 3 + 1
 2 = 3 - 1
 3 = 2 + 1 (or 3 = 4 - 1)
