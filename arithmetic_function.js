@@ -3,4 +3,4 @@
 function arithmetic(a, b, operator){
     let pairs = {'add': '+','subtract':'-','multiply':'*','divide':'/'}
     return eval(a + pairs[operator] + b)
-    }
+}
