@@ -1,7 +1,6 @@
 /*
 Fix My Phone Numbers
 Oh thank goodness you're here! The last intern has completely ruined everything!
-
 All of our customer's phone numbers have been scrambled, and we need those phone numbers to annoy them with endless sales calls!
 
 The Format
